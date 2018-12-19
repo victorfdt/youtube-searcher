@@ -1,3 +1,19 @@
 .app {
   margin: 20px;
 }
+
+.videoList, .videoDetails {
+    float: left;
+    border-style: solid;
+    border-color: blue;
+    border-width: 1px;
+    padding: 10px;
+}
+
+.videoList {
+    width: 30%;
+}
+
+.videoDetails {
+    width: 65%;
+}
